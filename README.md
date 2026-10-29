@@ -1,25 +1,26 @@
-## Olá! Eu sou o Clevesson Mendonça 🖐️ 
+# Clevesson Mendonça
 
-Me chamo Clevesson Mendonça, um desenvolvedor front-end apaixonado por criar soluções inovadoras e robustas que elevam a experiência do usuário. Com anos de dedicação ao desenvolvimento de software e Design, estou constantemente aprimorando minhas habilidades e explorando novas tecnologias para oferecer resultados excepcionais.
+Desenvolvedor de software com experiência profissional desde 2022 em aplicações corporativas, APIs e integrações. Atuo com backend e desenvolvimento full stack, combinando trabalho técnico com liderança de projetos.
 
-### Stacks atuais:
+Na SEA Tecnologia, participo da evolução de portais e sistemas para a CLDF e órgãos do GDF. Também defino arquiteturas, elaboro memórias de cálculo e acompanho entregas, da análise de requisitos à implantação.
 
-🌐 Desenvolvimento Web front-end utilizando ReactJS e bibliotecas associadas, como NextJS.
+## Tecnologias e atuação
 
-📱 Desenvolvimento de aplicativos móveis híbridos com React Native, além de conhecimentos em desenvolvimento nativo com Java.
+- **Backend e integrações:** Python, FastAPI, Java, Node.js, APIs REST e Apache Kafka.
+- **Front-end e plataformas:** React, TypeScript, JavaScript, Liferay e FreeMarker.
+- **Dados e infraestrutura:** PostgreSQL, MongoDB, Redis, AWS e Cloudflare.
+- **Engenharia:** arquitetura de software, migração de dados, revisão de código e Git. Utilizo Claude Code e Codex no fluxo de desenvolvimento.
 
-🔗 Criação de APIs RESTful com Node.js, utilizando bibliotecas populares como Express e Fastify.
+## Formação
 
-🗄️ Gerenciamento de bancos de dados relacionais (SQL) como MySQL e bancos de dados não relacionais como Firebase e MongoDB.
+Bacharelado em Engenharia de Software no Centro Universitário UNICEPLAC, com conclusão prevista para 2027.
 
-## Educação
+## Hackathons
 
-📚 Atualmente, estou me especializando em Engenharia de Software no **Centro Universitário do Planalto Central Aparecido dos Santos (UNICEPLAC)**
+- **Hackathon Brasília + TI (2025):** 1º lugar com a equipe em uma solução com agentes de IA para triagem de ideias da CAIXA.
+- **AgroHackIdeias Brasília (2025):** participação em equipe dividida em dois grupos, que conquistaram 1º e 3º lugares.
+- **Hackathon Transpetro (2025):** 2º lugar com a equipe em desafio de análise de dados operacionais de navios.
 
 ## Contato
-Se você está em busca de um desenvolvedor front-end apaixonado, comprometido e criativo para impulsionar seus projetos, entre em contato! Estou ansioso para colaborar e criar algo incrível juntos.
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clevesson-mendonca)
-[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clevesson.contato@gmail.com)
-
-## Vamos criar algo incrível! 🔥
+[LinkedIn](https://www.linkedin.com/in/clevesson-mendonca) · [E-mail](mailto:clevesson.contato@gmail.com)
